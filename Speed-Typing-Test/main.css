@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.speed-typing-test {
+    background-image: linear-gradient(to left, #dac0ff, #f3eaff);
+    height: 100vh;
+    padding: 25px;
+}
+
+.speed-typing-test-heading {
+    font-family: "Open Sans";
+    font-weight: 900;
+    font-size: 50px;
+    color: #690cb0;
+}
+
+.speed-typing-test-description {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 15px;
+    color: #3e4c59;
+    margin-top: 15px;
+}
+
+.speed-typing-test-clock-img {
+    width: 50px;
+}
+
+.speed-typing-test-timer {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 40px;
+    color: #3e4c59;
+    margin-left: 25px;
+}
+
+.speed-typing-test-timer-sub-part {
+    font-size: 18px;
+    margin-left: 5px;
+}
+
+.speed-typing-test-quote-container {
+    background-color: #f2ebfe;
+    padding: 20px;
+    border: 1px solid #9aa5b1;
+    border-radius: 10px;
+}
+
+.speed-typing-test-quote-display {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.speed-typing-test-result {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 20px;
+    color: #3e4c59;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.speed-typing-test-submit-btn {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #690cb0;
+    width: 90px;
+    height: 35px;
+    border: none;
+    border-radius: 8px;
+}
+
+.speed-typing-test-reset-btn {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 15px;
+    color: #323f4b;
+    background-color: #ffffff;
+    width: 90px;
+    height: 35px;
+    border: none;
+    border-radius: 8px;
+    margin-left: 15px;
+}
